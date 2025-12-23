@@ -1,6 +1,6 @@
 # pdf_editor
 
-This is a mobile app to edit pdfs.
+This is the basic pdf editor I build when I was learning flutter. Basic features of this app are pdf creation, split page, merge pdf, etc.
 
 ## Getting Started
 
